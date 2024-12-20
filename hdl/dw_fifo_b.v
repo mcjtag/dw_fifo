@@ -1,10 +1,10 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Engineer: Dmitry Matyunin (https://github.com/mcjtag)
-// Create Date: 13.08.2023 18:17:43
-// Module Name: dw_fifo
-// Project Name: dw_fifo
-// Additional Comments:
+// Create Date: 20.12.2024 16:22:10
+// Module Name: dw_fifo_b
+// Project Name: dw_fifo_b
+// Additional Comments: BYTE version, operates with bytes (BYTE_SIZE=any)
 // License: MIT
 //  Copyright (c) 2024 Dmitry Matyunin
 //  Permission is hereby granted, free of charge, to any person obtaining a copy
